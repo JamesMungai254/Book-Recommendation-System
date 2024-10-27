@@ -12,7 +12,7 @@ This repository contains a Book Recommender System that suggests books based on 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/BookRec.git
+    git clone https://github.com/JamesMungai254/BookRec.git
     ```
 2. Navigate to the project directory:
     ```bash
